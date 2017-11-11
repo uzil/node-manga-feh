@@ -1,0 +1,15 @@
+{
+    "env": {
+        "mocha": true
+    },
+    "extends": "airbnb-base",
+    "rules": {
+        "strict":"off",
+        // "func-names": ["error", "as-needed"],
+        "func-names": "off",
+        "comma-dangle": ["error", "never"],
+        "no-bitwise": "off",
+        "no-plusplus": "off",
+        "no-console": "off"
+    }
+}
