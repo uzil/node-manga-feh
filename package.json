@@ -17,7 +17,11 @@
     "mangareader"
   ],
   "author": "Ujjwal <ujjwal25993@live.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzil/node-manga-feh.git"
+  },
   "dependencies": {
     "bluebird": "^3.5.1",
     "chalk": "^2.3.0",
